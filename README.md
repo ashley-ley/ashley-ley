@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Ashley Ley!
-
-* I'm a junior data analyst with a passion for leveraging data to drive positive change in healthcare, education, and society as a whole. Here's a bit more about me:
+I'm a junior data analyst with a passion for leveraging data to drive positive change in healthcare, education, and society as a whole. Here's a bit more about me:
 
 # 👀 Interests: 
 My interests lie in education, healthcare and contributing to initiatives that make the world a better place.
