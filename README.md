@@ -17,6 +17,8 @@ Now that you know a bit about me, let's explore some of the projects and reposit
 
 Feel free to browse my repositories and explore the code. If you'd like to collaborate, have questions, or just want to connect, you can reach me at yakopeca@gmail.com
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ashley-ley)](https://git.io/streak-stats)
 <!---
 ashley-ley/ashley-ley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
