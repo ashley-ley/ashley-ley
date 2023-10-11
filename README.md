@@ -18,7 +18,7 @@ Feel free to browse my repositories and explore the code. If you'd like to colla
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ashley-ley)](https://git.io/streak-stats)
-![Ashley's github stats](https://github-readme-stats.vercel.app/api?username=ashley-ley&count_private=true&show_icons=true&theme=synthwave)
+
 <!---
 ashley-ley/ashley-ley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
