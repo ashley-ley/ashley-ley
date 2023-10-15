@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Ashley Ley!
-I'm a junior data analyst with a passion for leveraging data to drive positive change in healthcare, education, and society as a whole. Here's a bit more about me:
+I'm a junior data analyst with a passion for leveraging data to drive positive change everywhere I go! Here's a bit more about me:
 
 # 👀 Interests: 
 My interests lie in education, healthcare and contributing to initiatives that make the world a better place.
 
 # 🌱 Currently Learning: 
-I'm actively expanding my skill set by learning Python, SQL, Tableau, Pandas, JavaScript and more. I'm also comfortable working with databases like PostgreSQL and enjoy using tools like Jupyter Notebook and Leaflet to write code and visualize data.
+I'm actively expanding my skill set by learning Python, SQL, Tableau, JavaScript and more. I'm also comfortable working with databases like PostgreSQL and enjoy using tools like Jupyter Notebook and Leaflet to write code and visualize data.
 
 # Projects 
 Now that you know a bit about me, let's explore some of the projects and repositories I've been working on:
